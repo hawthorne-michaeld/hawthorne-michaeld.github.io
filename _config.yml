@@ -1,11 +1,11 @@
 title: Michael Hawthorne # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/IMG_5689.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Professional GIS fiber design engineer 
   <br><br>
-  Second description 
+  Spring-2027, Master of Science in Geospatial Technologies, University of Oklahoma 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="(pending LinkedIn profile/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
