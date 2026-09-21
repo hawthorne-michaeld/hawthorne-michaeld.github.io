@@ -4,7 +4,7 @@
 
 ### Identifying At-Risk Public Schools Near Flood-Hazard Areas 
 
-<![Orange County Flood Risk Results](images/orange_county_results.png)>
+![Orange County Flood Risk Results](images/orange_county_results.png)
 
 Python | ArcPy | ArcGIS Pro | Spatial Analysis
 
