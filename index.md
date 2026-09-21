@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Identifying At-Risk Public Schools Near Flood-Hazard Areas]([GitHub Project 1 (Golden Triangle Flood Risk](https://github.com/hawthorne-michaeld/golden-triangle-flood-risk/tree/main/GitHub%20Project%201%20(Golden%20Triangle%20Flood%20Risk))))
+[Identifying At-Risk Public Schools Near Flood-Hazard Areas]
 <![Orange County Flood Risk Results](images/orange_county_results.png)>
 
 Python | ArcPy | ArcGIS Pro | Spatial Analysis
@@ -12,7 +12,7 @@ Python | ArcPy | ArcGIS Pro | Spatial Analysis
 A Python/Arcpy interactive analysis that identifies public school institutions that are located within or within a user-defined buffer distance of FEMA Special Flood Hazard Areas in the Texas, Golden Triangle.
 This project allows a user to select a county and provide a buffer zone distance. The analysis processes the appropriate flood data, and identifies those schools that are within the given user-defined criteria.
 
-[This project can be viewed at: GitHub Project 1 (Golden Triangle Flood Risk)]
+[This project can be viewed at: (https://github.com/hawthorne-michaeld/golden-triangle-flood-risk/tree/main/GitHub%20Project%201%20(Golden%20Triangle%20Flood%20Risk))]
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
