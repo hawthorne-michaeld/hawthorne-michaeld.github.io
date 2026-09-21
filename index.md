@@ -9,8 +9,8 @@
 
 Python | ArcPy | ArcGIS Pro | Spatial Analysis
 
-A Python/Arcpy interactive analysis that identifies public school institutions that are located within or within a user-defined buffer distance of FEMA Special Flood Hazard Areas in the Texas, Golden Triangle.]
-[This project allows a user to select a county and provide a buffer zone distance. The analysis processes the appropriate flood data, and identifies those schools that are within the given user-defined criteria.
+A Python/Arcpy interactive analysis that identifies public school institutions that are located within or within a user-defined buffer distance of FEMA Special Flood Hazard Areas in the Texas, Golden Triangle.
+This project allows a user to select a county and provide a buffer zone distance. The analysis processes the appropriate flood data, and identifies those schools that are within the given user-defined criteria.
 
 [This project can be viewed at: ]
 
