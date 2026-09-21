@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Identifying At-Risk Public Schools Near Flood-Hazard Areas](GitHub Project 1 (Golden Triangle Flood Risk))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
