@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Identifying At-Risk Public Schools Near Flood-Hazard Areas](GitHub Project 1 (Golden Triangle Flood Risk))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<![Orange County Flood Risk Results](images/orange_county_results.png)>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
