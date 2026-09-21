@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Identifying At-Risk Public Schools Near Flood-Hazard Areas](GitHub Project 1 (Golden Triangle Flood Risk))
+[Identifying At-Risk Public Schools Near Flood-Hazard Areas]([GitHub Project 1 (Golden Triangle Flood Risk](https://github.com/hawthorne-michaeld/golden-triangle-flood-risk/tree/main/GitHub%20Project%201%20(Golden%20Triangle%20Flood%20Risk))))
 <![Orange County Flood Risk Results](images/orange_county_results.png)>
 
 Python | ArcPy | ArcGIS Pro | Spatial Analysis
