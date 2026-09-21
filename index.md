@@ -6,6 +6,7 @@
 
 [Identifying At-Risk Public Schools Near Flood-Hazard Areas](GitHub Project 1 (Golden Triangle Flood Risk))
 <![Orange County Flood Risk Results](images/orange_county_results.png)>
+[Python | ArcPy | ArcGIS Pro | Spatial Analysis]
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
