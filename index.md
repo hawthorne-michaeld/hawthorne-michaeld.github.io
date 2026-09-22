@@ -1,7 +1,7 @@
 ## Geospatial Portfolio
 
 ---
-
+---
 ### Identifying At-Risk Public Schools Near Flood-Hazard Areas 
 
 ![Orange County Flood Risk Results](images/orange_county_results.png)
@@ -14,7 +14,7 @@ This project allows a user to select a county and provide a buffer zone distance
 [View Full Project](https://github.com/hawthorne-michaeld/golden-triangle-flood-risk)
 
 ---
-
+---
 ### USA 250th Anniversary National Suitability Analysis
 ![USA 250th Anniversary National Suitability Analysis](images/america_250_title_image.png)
 
@@ -30,7 +30,6 @@ The overall analysis incorporates the use of ArcGIS Online and ArcGIS Pro. The a
 [View StoryMap using this link](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
 
 ---
-
 ---
 
 
