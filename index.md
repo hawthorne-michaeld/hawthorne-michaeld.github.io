@@ -25,7 +25,7 @@ The analysis incorporates the use of population data, park access information, J
 
 The overall analysis incorporates the use of ArcGIS Online and ArcGIS Pro. The analysis is presented through ArcGIS StoryMaps. 
 
-[View Entire Project Repository Here]()
+[View Entire Project Repository Here](https://github.com/hawthorne-michaeld/USA-250th-Anniversary-National-Suitability-Analysis)
 
 [View StoryMap using this link](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
 
