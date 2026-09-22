@@ -18,7 +18,7 @@ This project allows a user to select a county and provide a buffer zone distance
 ### USA 250th Anniversary National Suitability Analysis
 ![USA 250th Anniversary National Suitability Analysis](images/america_250_title_image.png)
 
-**ArcGIS Pro | StoryMaps | ArcGIS Online | Spatial Analysis | MCDA
+ArcGIS Pro | StoryMaps | ArcGIS Online | Spatial Analysis | MCDA
 
 A national, site suitability analysis showcasing locations across the contiguous United States that would be well suited to host America 250 Celebrations for America's 250th Anniversary.
 The analysis incorporates the use of population data, park access information, July heat conditions, and major-road and highway density information as a means to analyze site suitability.
