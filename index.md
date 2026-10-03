@@ -30,19 +30,16 @@ The overall analysis incorporates the use of ArcGIS Online and ArcGIS Pro. The a
 [View StoryMap using this link](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
 
 ---
-### USA 250th Anniversary National Suitability Analysis
-![USA 250th Anniversary National Suitability Analysis](images/america_250_title_image.png)
+### City of Round Rock Appraisal District
+![City of Round Rock](images/city_of_round_rock.png)
 
-ArcGIS Pro | StoryMaps | ArcGIS Online | Spatial Analysis | MCDA
+ArcGIS Pro | ArcGIS Web Maps | ArcGIS Online |
 
-A national, site suitability analysis showcasing locations across the contiguous United States that would be well suited to host America 250 Celebrations for America's 250th Anniversary.
-The analysis incorporates the use of population data, park access information, July heat conditions, and major-road and highway density information as a means to analyze site suitability.
+A rudimentary project that creates an imaginary boundary and utilizes pre-existing parcel data to create an appraisal district service area for the City of Round Rock, TX.
 
-The overall analysis incorporates the use of ArcGIS Online and ArcGIS Pro. The analysis is presented through ArcGIS StoryMaps. 
+This online map incorporates the use of ArcGIS Online, ArcGIS Pro, and ArcGIS Web maps. The interactive map is presented through ArcGIS Web maps and is hosted publicly for persusal.
 
-[View Entire Project Repository Here](https://github.com/hawthorne-michaeld/USA-250th-Anniversary-National-Suitability-Analysis)
-
-[View StoryMap using this link](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
+[View Interactive Web Map using this link:](https://arcg.is/10jGKK3)
 ---
 
 ---
