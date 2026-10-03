@@ -30,6 +30,7 @@ The overall analysis incorporates the use of ArcGIS Online and ArcGIS Pro. The a
 [View StoryMap using this link](https://storymaps.arcgis.com/stories/21b47ebb092f460b878b639069a0b2e9)
 
 ---
+---
 ### City of Round Rock Appraisal District
 ![City of Round Rock](images/city_of_round_rock.png)
 
@@ -39,7 +40,8 @@ A rudimentary project that creates an imaginary boundary and utilizes pre-existi
 
 This online map incorporates the use of ArcGIS Online, ArcGIS Pro, and ArcGIS Web maps. The interactive map is presented through ArcGIS Web maps and is hosted publicly for persusal.
 
-[View Interactive Web Map using this link:](https://arcg.is/10jGKK3)
+[View StoryMap using this link](https://arcg.is/10jGKK3)
+
 ---
 
 ---
