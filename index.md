@@ -32,7 +32,7 @@ The overall analysis incorporates the use of ArcGIS Online and ArcGIS Pro. The a
 ---
 ---
 ### City of Round Rock Appraisal District
-![City of Round Rock](images/city_of_round_rock.png) 
+![City of Round Rock](images/city_of_round_rock.jpg) 
 
 ArcGIS Pro | ArcGIS Web Maps | ArcGIS Online |
 
