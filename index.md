@@ -38,9 +38,21 @@ ArcGIS Pro | ArcGIS Web Maps | ArcGIS Online |
 
 A rudimentary project that creates an imaginary boundary and utilizes pre-existing parcel data to create an appraisal district service area for the City of Round Rock, TX.
 
-This online map incorporates the use of ArcGIS Online, ArcGIS Pro, and ArcGIS Web maps. The interactive map is presented through ArcGIS Web maps and is hosted publicly for persusal.
+This online map incorporates the use of ArcGIS Online, ArcGIS Pro, and ArcGIS Web maps. The interactive map is presented through ArcGIS Web maps and is hosted publicly for perusal.
 
 [View StoryMap using this link]([https://arcg.is/10jGKK3](https://www.arcgis.com/apps/mapviewer/index.html?webmap=58fb74721c9f453ca43d3190f13b99d0)
+
+---
+### Great Salt Lake Water Change Detection
+![Great_Salt_Lake_Water_Change](images/water_change_detection_thumbnail.png) 
+
+Google Earth Engine | Google Earth Engine Apps | Change Detection | LANDSAT |
+
+A Google Earth Engine project that looks to determine water amount changes in the Great Salt Lake in Salt Lake City, UT between 2001 and 2019. The ultimate analysis uses NLCD 2019: USGS National Land Cover Database, 2019 LANDSAT imagery, Google Earth Engine, and Google Earth Engine Apps.
+
+The interactive map is presented through Google Earth Engine Apps and is hosted publicly for perusal.
+
+[View Google Earth Engine App using this link](https://week-1-project-485022.projects.earthengine.app/view/great-salt-lake-water-change-detection)
 
 ---
 
