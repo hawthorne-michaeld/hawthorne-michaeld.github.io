@@ -54,6 +54,8 @@ The interactive map is presented through Google Earth Engine Apps and is hosted 
 
 [View Google Earth Engine App using this link](https://week-1-project-485022.projects.earthengine.app/view/great-salt-lake-water-change-detection)
 
+[View Full Project](https://github.com/hawthorne-michaeld/Great_Salt_Lake_Water_Change)
+
 ---
 
 ---
