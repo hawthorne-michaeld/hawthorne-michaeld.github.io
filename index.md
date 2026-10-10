@@ -40,7 +40,7 @@ A rudimentary project that creates an imaginary boundary and utilizes pre-existi
 
 This online map incorporates the use of ArcGIS Online, ArcGIS Pro, and ArcGIS Web maps. The interactive map is presented through ArcGIS Web maps and is hosted publicly for persusal.
 
-[View StoryMap using this link](https://arcg.is/10jGKK3)
+[View StoryMap using this link]([https://arcg.is/10jGKK3](https://www.arcgis.com/apps/mapviewer/index.html?webmap=58fb74721c9f453ca43d3190f13b99d0))
 
 ---
 
